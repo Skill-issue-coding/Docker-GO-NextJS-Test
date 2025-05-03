@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.className} antialiased flex justify-center items-center min-h-dvh min-w-full`}
+        className={`${inter.className} antialiased flex flex-col justify-center items-center min-h-dvh min-w-full gap-8`}
       >
         {children}
       </body>
