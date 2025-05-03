@@ -43,6 +43,27 @@ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/en)
 
+# 🛠️ Setup Instructions
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Skill-issue-coding/Docker-GO-NextJS-Test.git
+cd Docker-GO-NextJS-Test
+```
+
+2. Build and start all services
+
+```bash
+docker compose up --build
+```
+
+This will:
+
+- Build and run the Go backend on `http://localhost:8000`
+- Build and run the Next.js frontend on `http://localhost:3000`
+- Start a PostgreSQL database on port `5432`
+
 # 🧩 Project Structure
 
 ```python
