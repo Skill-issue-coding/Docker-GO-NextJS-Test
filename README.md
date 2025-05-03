@@ -97,7 +97,7 @@ The database is automatically started in Docker with the following default value
 
 - Database: `postgres`
 
-The database is initialized with a users table:
+The database is initialized with a `users` table:
 
 ```sql
 CREATE TABLE IF NOT EXISTS users (
