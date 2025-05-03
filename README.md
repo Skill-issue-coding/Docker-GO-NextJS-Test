@@ -49,10 +49,16 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/Skill-issue-coding/Docker-GO-NextJS-Test.git
+
+```
+
+2. Move into to the repository
+
+```bash
 cd Docker-GO-NextJS-Test
 ```
 
-2. Build and start all services
+3. Build and start all services
 
 ```bash
 docker compose up --build
