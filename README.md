@@ -61,7 +61,8 @@ cd Docker-GO-NextJS-Test
 3. Build and start all services
 
 ```bash
-docker compose up --build
+docker compose build
+docker compose up -d nextapp
 ```
 
 This will:
