@@ -1,4 +1,4 @@
-# 🐳 Docker GO + Next.js + PostgreSQL CRUD Project
+# 🐳 Docker + GO + Next.js + PostgreSQL CRUD Project
 
 ![Go](https://img.shields.io/badge/Go-1.23-blue?logo=go)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
